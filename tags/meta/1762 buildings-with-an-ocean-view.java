@@ -1,5 +1,5 @@
 /*
-https://leetcode.com/problems/buildings-with-an-ocean-view/description/
+https://leetcode.com/problems/buildings-with-an-ocean-view/
 
 从右向左扫描，记录当前最大值
 大于最大值的下标即可加入结果

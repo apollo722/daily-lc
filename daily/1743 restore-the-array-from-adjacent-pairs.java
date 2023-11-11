@@ -1,5 +1,5 @@
 /*
-https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/
+https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
 
 每个元素都不相同
 建立图，只有一个相邻元素的就是起点

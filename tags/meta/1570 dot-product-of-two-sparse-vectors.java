@@ -1,5 +1,5 @@
 /*
-https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/
+https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
 
 用hashmap会有额外的overhead以及possible collision
 

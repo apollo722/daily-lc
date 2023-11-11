@@ -1,5 +1,5 @@
 /*
-https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 
 第一次正向扫描
 遇到左括号，balance++，并加入

@@ -1,5 +1,5 @@
 /*
-https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/
+https://leetcode.com/problems/binary-tree-vertical-order-traversal/
 
 BFS，扫描每层的时候记录最左和最右的pos
 最后从最左到最右放进结果
