@@ -7,7 +7,6 @@ Time: O(n)
 Space: O(1)
 */
 
-
 class Solution {
     public int rob(int[] nums) {
         int n = nums.length;

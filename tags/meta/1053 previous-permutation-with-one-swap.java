@@ -11,7 +11,6 @@ Time: O(n)
 Space: O(1)
 */
 
-
 class Solution {
     public int[] prevPermOpt1(int[] arr) {
         int n = arr.length;

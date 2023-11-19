@@ -11,7 +11,6 @@ Time: O(n)，因为每次查询都从set中remove，所以每个数字最多被�
 Space: O(n)
 */
 
-
 class Solution {
     public int longestConsecutive(int[] nums) {
         HashSet<Integer> s = new HashSet<>();

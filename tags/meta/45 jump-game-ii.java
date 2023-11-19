@@ -16,7 +16,6 @@ Time: O(n)
 Space: O(1)
 */
 
-
 class Solution {
     public int jump(int[] nums) {
         if (nums == null || nums.length <= 1) return 0;
