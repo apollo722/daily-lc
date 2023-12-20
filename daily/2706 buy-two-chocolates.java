@@ -9,16 +9,9 @@ Space: O(1)
 
 class Solution {
     public int buyChoco(int[] prices, int money) {
-        int num1 = Integer.MIN_VALUE, num2 = Integer.MIN_VALUE;
+        int num1 = Integer.MAX_VALUE, num2 = Integer.MAX_VALUE;
         for (int num : prices) {
-            if (num1 == Integer.MIN_VALUE) num1 = num;
-            else if (num2 == Integer.MIN_VALUE) {
-                if (num < num1) {
-                    num2 = num1;
-                    num1 = num;
-                } else num2 = num;
-            }
-            else if (num < num1) {
+            if (num < num1) {
                 num2 = num1;
                 num1 = num;
             } else if (num < num2) num2 = num;
