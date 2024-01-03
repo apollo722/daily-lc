@@ -7,19 +7,6 @@ Time: O(1)
 Space: O(1)
 */
 
-/*
-https://leetcode.com/problems/detonate-the-maximum-bombs/
-
-构建图，将所有可以连炸的node放到邻接表中
-将每一个点作为起点，用BFS/DFS查找最多可以连接几个节点
-
-union find不work是因为a引爆b，c也引爆b，但不代表a通过b可以引爆c
-union find的链接是无向的，此题的链接是有向的
-
-Time: O(n3)
-Space: O(n2)
-*/
-
 class Solution {
     int[] dir = {-1, 0, 1, 0, -1};
     int n = (int) 1e6;
