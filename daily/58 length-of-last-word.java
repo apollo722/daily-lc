@@ -7,7 +7,6 @@ Time: O(n)
 Space: O(1)
 */
 
-
 class Solution {
     public int lengthOfLastWord(String s) {
         int res = 0;
