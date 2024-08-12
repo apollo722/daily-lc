@@ -38,11 +38,11 @@ class Solution {
             int pId = find(p), qId = find(q);
             if (pId == qId) return 0;
             if (sz[pId] < sz[qId]) {
-                sz[pId] += sz[qId];
-                id[qId] = pId;
-            } else {
                 sz[qId] += sz[pId];
                 id[pId] = qId;
+            } else {
+                sz[pId] += sz[qId];
+                id[qId] = pId;
             }
             cnt--;
             return 1;
