@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/apollo722/daily-lc/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/apollo722/daily-lc/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/apollo722/daily-lc/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/apollo722/daily-lc/tree/master/0004-median-of-two-sorted-arrays) |
 ## Binary Search
 |  |
