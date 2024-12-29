@@ -16,13 +16,16 @@ class Solution {
         map.put("M", 1000);
         int res = 0, idx = 0, n = s.length();
         while (idx < n) {
-            if (idx + 1 < n && map.containsKey(s.substring(idx, idx + 2))) {
-                res += map.get(s.substring(idx, idx + 2));
-                idx += 2;
-            } else {
-                res += map.get(s.substring(idx, idx + 1));
-                idx++;
+            if (idx + 1 < n) {
+                String checkStr = s.substring(idx, idx + 2);
+                if (map.containsKey(checkStr)) {
+                    res += map.get(checkStr);
+                    idx += 2;
+                    continue;
+                }
             }
+            res += map.get(s.substring(idx, idx + 1));
+            idx++;
         }
         return res;
     }
