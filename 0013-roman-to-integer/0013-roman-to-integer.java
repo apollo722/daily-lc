@@ -1,6 +1,6 @@
 class Solution {
-    public int romanToInt(String s) {
-        Map<String, Integer> map = new HashMap<>();
+    static Map<String, Integer> map = new HashMap<>();
+    static {
         map.put("I", 1);
         map.put("IV", 4);
         map.put("V", 5);
@@ -14,6 +14,8 @@ class Solution {
         map.put("D", 500);
         map.put("CM", 900);
         map.put("M", 1000);
+    }
+    public int romanToInt(String s) {
         int res = 0, idx = 0, n = s.length();
         while (idx < n) {
             if (idx + 1 < n) {
