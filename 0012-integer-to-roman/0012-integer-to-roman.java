@@ -1,6 +1,6 @@
 class Solution {
-    public String intToRoman(int num) {
-        Map<Integer, String> map = new HashMap<>();
+    static Map<Integer, String> map = new HashMap<>();
+    static {
         map.put(1, "I");
         map.put(4, "IV");
         map.put(5, "V");
@@ -14,6 +14,9 @@ class Solution {
         map.put(500, "D");
         map.put(900, "CM");
         map.put(1000, "M");
+    }
+        
+    public String intToRoman(int num) {
         ArrayDeque<String> q = new ArrayDeque<>();
         int curDigit = 1;
         while (num != 0) {
