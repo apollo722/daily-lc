@@ -1,18 +1,18 @@
 class Solution {
     public String countAndSay(int n) {
+        if (n == 1) return "1";
+        String prev = countAndSay(n - 1);
         StringBuilder res = new StringBuilder();
-        res.append("1");
-        for (int i = 2; i <= n; i++) {
-            StringBuilder cur = new StringBuilder();
-            for (int j = 0; j < res.length(); ) {
-                char c = res.charAt(j);
-                int k = j; 
-                while (k < res.length() && res.charAt(j) == res.charAt(k)) k++;
-                cur.append(k - j + "");
-                cur.append(c);
-                j = k;
+        int idx = 0;
+        while (idx < prev.length()) {
+            int count = 0, i = idx;
+            while (i < prev.length() && prev.charAt(idx) == prev.charAt(i)) {
+                i++;
+                count++;
             }
-            res = cur;
+            res.append(count + "");
+            res.append(prev.charAt(idx));
+            idx = i;
         }
         return res.toString();
     }
