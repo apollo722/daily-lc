@@ -141,4 +141,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/apollo722/daily-lc/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/apollo722/daily-lc/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/apollo722/daily-lc/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Graph
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/apollo722/daily-lc/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Topological Sort
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/apollo722/daily-lc/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
