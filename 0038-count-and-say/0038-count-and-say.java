@@ -10,7 +10,7 @@ class Solution {
                 i++;
                 count++;
             }
-            res.append(count + "");
+            res.append(count);
             res.append(prev.charAt(idx));
             idx = i;
         }
