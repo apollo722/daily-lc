@@ -144,13 +144,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/apollo722/daily-lc/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/apollo722/daily-lc/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/apollo722/daily-lc/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
