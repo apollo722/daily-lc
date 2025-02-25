@@ -145,11 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/apollo722/daily-lc/tree/master/0922-possible-bipartition) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/apollo722/daily-lc/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Graph
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/apollo722/daily-lc/tree/master/0922-possible-bipartition) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/apollo722/daily-lc/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
@@ -159,8 +161,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/apollo722/daily-lc/tree/master/0922-possible-bipartition) |
 ## Union Find
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/apollo722/daily-lc/tree/master/0922-possible-bipartition) |
 <!---LeetCode Topics End-->
