@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/apollo722/daily-lc/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/apollo722/daily-lc/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/apollo722/daily-lc/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/apollo722/daily-lc/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/apollo722/daily-lc/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/apollo722/daily-lc/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/apollo722/daily-lc/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/apollo722/daily-lc/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/apollo722/daily-lc/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/apollo722/daily-lc/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/apollo722/daily-lc/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/apollo722/daily-lc/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/apollo722/daily-lc/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/apollo722/daily-lc/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/apollo722/daily-lc/tree/master/0042-trapping-rain-water) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/apollo722/daily-lc/tree/master/0922-possible-bipartition) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/apollo722/daily-lc/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
