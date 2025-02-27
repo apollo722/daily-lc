@@ -153,12 +153,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/apollo722/daily-lc/tree/master/0922-possible-bipartition) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/apollo722/daily-lc/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/apollo722/daily-lc/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Graph
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/apollo722/daily-lc/tree/master/0922-possible-bipartition) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/apollo722/daily-lc/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/apollo722/daily-lc/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Topological Sort
 |  |
 | ------- |
@@ -168,11 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/apollo722/daily-lc/tree/master/0922-possible-bipartition) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/apollo722/daily-lc/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Union Find
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/apollo722/daily-lc/tree/master/0922-possible-bipartition) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/apollo722/daily-lc/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Monotonic Stack
 |  |
 | ------- |
