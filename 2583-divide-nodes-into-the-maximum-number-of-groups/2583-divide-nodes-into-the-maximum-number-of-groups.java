@@ -1,37 +1,35 @@
 class Solution {
     public int magnificentSets(int n, int[][] edges) {
-        HashMap<Integer, List<Integer>> g = new HashMap<>();
+        List<List<Integer>> g = new ArrayList<>();
+        for (int i = 0; i < n; i++) g.add(new ArrayList<>());
         for (int[] e : edges) {
-            int u = e[0], v = e[1];
-            if (!g.containsKey(u)) g.put(u, new ArrayList<>());
-            if (!g.containsKey(v)) g.put(v, new ArrayList<>());
+            int u = e[0] - 1, v = e[1] - 1;
             g.get(u).add(v);
             g.get(v).add(u);
         }
 
         HashMap<Integer, Integer> component = new HashMap<>();
-        for (int i = 1; i <= n; i++) {
-            int componentId = n + 1, maxGroup = 0;
-            int[] group = new int[n + 1];
+        for (int i = 0; i < n; i++) {
+            int[] depth = new int[n];
+            int componentId = n + 1, groupCnt = 0;
             Deque<int[]> q = new ArrayDeque<>();
             q.add(new int[]{i, 1});
-            group[i] = 1;
+            depth[i] = 1;
             while (!q.isEmpty()) {
                 int[] curPair = q.poll();
-                int cur = curPair[0], groupId = curPair[1];
+                int cur = curPair[0], d = curPair[1];
+                groupCnt = Math.max(groupCnt, d);
                 componentId = Math.min(componentId, cur);
-                maxGroup = Math.max(maxGroup, groupId);
-                if (!g.containsKey(cur)) continue;
                 for (int next : g.get(cur)) {
-                    if (group[next] == groupId) return -1;
-                    if (group[next] == 0) {
-                        group[next] = groupId + 1;
-                        q.add(new int[]{next, groupId + 1});
+                    if (depth[next] == d) return -1;
+                    if (depth[next] == 0) {
+                        depth[next] = d + 1;
+                        q.add(new int[]{next, d + 1});
                     }
                 }
             }
-            if (component.getOrDefault(componentId, 0) < maxGroup) {
-                component.put(componentId, maxGroup);
+            if (component.getOrDefault(componentId, 0) < groupCnt) {
+                component.put(componentId, groupCnt);
             }
         }
         int res = 0;
