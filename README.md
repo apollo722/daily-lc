@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/apollo722/daily-lc/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/apollo722/daily-lc/tree/master/0051-n-queens) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apollo722/daily-lc/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2617-time-taken-to-cross-the-door](https://github.com/apollo722/daily-lc/tree/master/2617-time-taken-to-cross-the-door) |
 ## Binary Search
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apollo722/daily-lc/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2617-time-taken-to-cross-the-door](https://github.com/apollo722/daily-lc/tree/master/2617-time-taken-to-cross-the-door) |
 ## Tree
 |  |
 | ------- |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [2617-time-taken-to-cross-the-door](https://github.com/apollo722/daily-lc/tree/master/2617-time-taken-to-cross-the-door) |
 <!---LeetCode Topics End-->
