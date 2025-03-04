@@ -4,25 +4,28 @@ class Solution {
         char ops = '+';
         int curSum = 0, prev = 0, res = 0;
         int n = s.length();
-        while (idx < n) {
-            char c = s.charAt(idx++);
-            if (c == ' ') continue;
-            else if (Character.isDigit(c)) {
+        for ( ; idx < n; idx++) {
+            char c = s.charAt(idx);
+            if (Character.isDigit(c)) {
                 curSum = 10 * curSum + c - '0';
-            } else if (c == '(') {
-               curSum = calculate(s);
-            } else if (c == ')') break;
-            else {
+            } 
+            if (c == '(') {
+                idx++;
+                curSum = calculate(s);
+            } 
+            if ((!Character.isDigit(c) && c != ' ') || idx == n - 1) {
                 if (ops == '+') {
-                    res += curSum;
-                } else res -= curSum;
+                    res += prev;
+                    prev = curSum;
+                } else {
+                    res += prev;
+                    prev = -curSum;
+                }
                 curSum = 0;
                 ops = c;
             }
+            if (c == ')') break;
         }
-        if (ops == '+') {
-            res += curSum;
-        } else res -= curSum;
-        return res;
+        return res + prev;
     }
 }
