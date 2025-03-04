@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/apollo722/daily-lc/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/apollo722/daily-lc/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/apollo722/daily-lc/tree/master/0038-count-and-say) |
+| [0068-text-justification](https://github.com/apollo722/daily-lc/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/apollo722/daily-lc/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/apollo722/daily-lc/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/apollo722/daily-lc/tree/master/0051-n-queens) |
+| [0068-text-justification](https://github.com/apollo722/daily-lc/tree/master/0068-text-justification) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apollo722/daily-lc/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2617-time-taken-to-cross-the-door](https://github.com/apollo722/daily-lc/tree/master/2617-time-taken-to-cross-the-door) |
 ## Binary Search
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/apollo722/daily-lc/tree/master/0068-text-justification) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apollo722/daily-lc/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2617-time-taken-to-cross-the-door](https://github.com/apollo722/daily-lc/tree/master/2617-time-taken-to-cross-the-door) |
 ## Tree
