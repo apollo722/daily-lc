@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/apollo722/daily-lc/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/apollo722/daily-lc/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/apollo722/daily-lc/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/apollo722/daily-lc/tree/master/0127-word-ladder) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
 ## String
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/apollo722/daily-lc/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/apollo722/daily-lc/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/apollo722/daily-lc/tree/master/0068-text-justification) |
+| [0127-word-ladder](https://github.com/apollo722/daily-lc/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/apollo722/daily-lc/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/apollo722/daily-lc/tree/master/0227-basic-calculator-ii) |
 | [0785-basic-calculator-iii](https://github.com/apollo722/daily-lc/tree/master/0785-basic-calculator-iii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/apollo722/daily-lc/tree/master/0127-word-ladder) |
 | [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/apollo722/daily-lc/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
