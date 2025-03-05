@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/apollo722/daily-lc/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/apollo722/daily-lc/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/apollo722/daily-lc/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/apollo722/daily-lc/tree/master/0084-largest-rectangle-in-histogram) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apollo722/daily-lc/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2617-time-taken-to-cross-the-door](https://github.com/apollo722/daily-lc/tree/master/2617-time-taken-to-cross-the-door) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/apollo722/daily-lc/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/apollo722/daily-lc/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/apollo722/daily-lc/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/apollo722/daily-lc/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/apollo722/daily-lc/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/apollo722/daily-lc/tree/master/0227-basic-calculator-ii) |
 | [0785-basic-calculator-iii](https://github.com/apollo722/daily-lc/tree/master/0785-basic-calculator-iii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/apollo722/daily-lc/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/apollo722/daily-lc/tree/master/0084-largest-rectangle-in-histogram) |
 ## Simulation
 |  |
 | ------- |
