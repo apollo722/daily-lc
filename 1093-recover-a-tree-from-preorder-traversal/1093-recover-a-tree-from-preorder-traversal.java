@@ -47,14 +47,16 @@ class Solution {
 
     private TreeNode build(String s, int level) {
         int i = idx;
-        while (i < s.length() && s.charAt(i) == '-') i++;
+        while (i < s.length() && s.charAt(i) == '-') {
+            i++;
+        }
         if (i - idx != level) return null;
-        int next = i, val = 0;
-        while (next < s.length() && Character.isDigit(s.charAt(next))) {
-            val = val * 10 + s.charAt(next++) - '0';
+        idx = i;
+        int val = 0;
+        while (idx < s.length() && Character.isDigit(s.charAt(idx))) {
+            val = val * 10 + s.charAt(idx++) - '0';
         }
         TreeNode res = new TreeNode(val);
-        idx = next;
         res.left = build(s, level + 1);
         res.right = build(s, level + 1);
         return res;
