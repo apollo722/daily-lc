@@ -1,29 +1,44 @@
 class Solution {
-    HashSet<String> set;
-    HashMap<Integer, List<String>> memo = new HashMap<>();
-    public List<String> wordBreak(String s, List<String> wordDict) {
-        set = new HashSet<>(wordDict);
-        return solve(s, 0);
-    }
 
-    private List<String> solve(String s, int idx) {
-        if (idx == s.length()) return null;
-        if (memo.containsKey(idx)) return memo.get(idx);
-        List<String> res = new ArrayList<>();
-        for (int i = idx + 1; i <= s.length(); i++) {
-            String cur = s.substring(idx, i);
-            if (set.contains(cur)) {
-                List<String> remainList = solve(s, i);
-                if (remainList == null) {
-                    res.add(cur);
-                    continue;
+    Set<String> set=new HashSet<>();
+
+    List<String> res=new ArrayList<>();
+    int n;
+
+    public void solve(String s,int id,StringBuilder cur)
+    {
+        if(id >= n)
+        {
+            res.add(cur.toString());
+            return;
+        }
+
+        for(int i=id+1;i<=n;i++)
+        {
+            String temp=s.substring(id,i);
+            if(set.contains(temp))
+            {
+                int len=cur.length();
+                if(cur.length() != 0)
+                {
+                    cur.append(" ");
                 }
-                for (String str : remainList) {
-                    res.add(cur + " " + str);
-                }                   
+                solve(s,i,cur.append(temp));
+                cur.setLength(len);
             }
         }
-        memo.put(idx, res);
+    }
+    public List<String> wordBreak(String s, List<String> wordDict) {
+
+        for(String ss:wordDict)
+        {
+            set.add(ss);
+        }
+
+        n=s.length();
+
+        solve(s,0,new StringBuilder());
+
         return res;
         
     }
