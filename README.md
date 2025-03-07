@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/apollo722/daily-lc/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/apollo722/daily-lc/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/apollo722/daily-lc/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
 ## String
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/apollo722/daily-lc/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/apollo722/daily-lc/tree/master/0068-text-justification) |
 | [0127-word-ladder](https://github.com/apollo722/daily-lc/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 | [0224-basic-calculator](https://github.com/apollo722/daily-lc/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/apollo722/daily-lc/tree/master/0227-basic-calculator-ii) |
 | [0785-basic-calculator-iii](https://github.com/apollo722/daily-lc/tree/master/0785-basic-calculator-iii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/apollo722/daily-lc/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/apollo722/daily-lc/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/apollo722/daily-lc/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 | [0239-sliding-window-maximum](https://github.com/apollo722/daily-lc/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/apollo722/daily-lc/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/apollo722/daily-lc/tree/master/0354-russian-doll-envelopes) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/apollo722/daily-lc/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/apollo722/daily-lc/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/apollo722/daily-lc/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/apollo722/daily-lc/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/apollo722/daily-lc/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/apollo722/daily-lc/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -180,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/apollo722/daily-lc/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/apollo722/daily-lc/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/apollo722/daily-lc/tree/master/0051-n-queens) |
+| [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -299,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
 | [1953-finding-mk-average](https://github.com/apollo722/daily-lc/tree/master/1953-finding-mk-average) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
