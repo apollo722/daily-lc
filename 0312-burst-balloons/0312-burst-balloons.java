@@ -1,34 +1,16 @@
 class Solution {
+    // /*
     int[][] memo;
     public int maxCoins(int[] nums) {
-        /*
-        int n = nums.length;
-        int[] arr = new int[n + 2];
-        for (int i = 1; i <= n; i++) {
+        int n = nums.length + 2;
+        int[] arr = new int[n];
+        for (int i = 1; i < n - 1; i++) {
             arr[i] = nums[i - 1];
         }
         arr[0] = 1;
-        arr[n + 1] = 1;
-        int[][] dp = new int[n + 2][n + 2];
-        for (int len = 1; len <= n; len++) {
-            for (int i = 1; i + len - 1 <= n; i++) {
-                int j = i + len - 1;
-                for (int k = i; k <= j; k++) {
-                    dp[i][j] = Math.max(dp[i][j], dp[i][k - 1] + dp[k + 1][j] + arr[i - 1] * arr[j + 1] * arr[k]);
-                }
-            }
-        }
-        return dp[1][n];
-        */
-        int n = nums.length;
-        int[] arr = new int[n + 2];
-        for (int i = 1; i <= n; i++) {
-            arr[i] = nums[i - 1];
-        }
-        arr[0] = 1;
-        arr[n + 1] = 1;
-        memo = new int[n + 2][n + 2];
-        return calc(arr, 1, n);
+        arr[n - 1] = 1;
+        memo = new int[n][n];
+        return calc(arr, 1, n - 2);
     }
 
     private int calc(int[] nums, int left, int right) {
@@ -43,6 +25,9 @@ class Solution {
         memo[left][right] = res;
         return res;
     }
+    // */
+    
+    
 }
 
 
@@ -55,4 +40,13 @@ class Solution {
 所以一个top down的写法就是每次在[left,right]段里找一个k，这个k当前这一轮没有被射爆。
 那么射它左边和右边的分段的时候，它是可以被取值的。由此来递归下去就逐个的解决了。
 本质上相当于反着把问题变成了每轮加一个气球，直到加回原来的长度。top down标配带上memo节省时间。
+
+最后看看bottom up怎么写。
+dp[left][right]取决于dp[left][k-1]与dp[k+1][right]。所以必须要保证这两个值先被计算。
+对于二维数组，left是row，right是column，且right一定大于等与left，所以这是个上三角阵。
+dp[left][k-1]即row不变，col变小，即dp[left][right]同行的左侧。同理dp[k+1][right]是同列的下侧。
+也就是如果从最后一行开始遍历，之后每一行从左到右扫描，这样算到dp[left][right]的时候，他依赖的所以值就一定都算出来了。
+所以外层循环是行的从下到上，行是left，即n-2到1（这里的n是原长度+2，即补全了原输入的首尾的“假”气球为1）。
+内层循环是列的从左到右，列是right，即1到n-2。但是left不能超过right，所以是1到right。
+最后在left和right内寻找k。
 */
