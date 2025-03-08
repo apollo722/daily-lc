@@ -1,5 +1,5 @@
 class Solution {
-    // /*
+    /*
     int[][] memo;
     public int maxCoins(int[] nums) {
         int n = nums.length + 2;
@@ -25,9 +25,27 @@ class Solution {
         memo[left][right] = res;
         return res;
     }
-    // */
-    
-    
+    */
+
+    public int maxCoins(int[] nums) {
+        int n = nums.length + 2;
+        int[] arr = new int[n];
+        for (int i = 1; i < n - 1; i++) {
+            arr[i] = nums[i - 1];
+        }
+        arr[0] = 1;
+        arr[n - 1] = 1;
+        int[][] dp = new int[n][n];
+        for (int left = n - 2; left >= 1; left--) {
+            for (int right = left; right <= n - 2; right++) {
+                for (int k = left; k <= right; k++) {
+                    int cur = arr[k] * arr[left - 1] * arr[right + 1];
+                    dp[left][right] = Math.max(dp[left][right], cur + dp[left][k - 1] + dp[k + 1][right]);
+                }
+            }
+        }
+        return dp[1][n - 2];
+    }
 }
 
 
@@ -47,6 +65,6 @@ dp[left][right]取决于dp[left][k-1]与dp[k+1][right]。所以必须要保证�
 dp[left][k-1]即row不变，col变小，即dp[left][right]同行的左侧。同理dp[k+1][right]是同列的下侧。
 也就是如果从最后一行开始遍历，之后每一行从左到右扫描，这样算到dp[left][right]的时候，他依赖的所以值就一定都算出来了。
 所以外层循环是行的从下到上，行是left，即n-2到1（这里的n是原长度+2，即补全了原输入的首尾的“假”气球为1）。
-内层循环是列的从左到右，列是right，即1到n-2。但是left不能超过right，所以是1到right。
-最后在left和right内寻找k。
+内层循环是列的从左到右，列是right，即1到n-2。但是right不能比left还小，所以是从left到n-2。
+最后在left和right内寻找k，并更新找到的最大值。
 */
