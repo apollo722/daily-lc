@@ -1,11 +1,68 @@
 class Solution {
-    int[] id, sz;
+    int[] id;
+    int[] sz;
     int[] dir = {-1, 0, 1, 0, -1};
-    private int find(int p) {
-        while (p != id[p]) {
-            id[p] = id[id[p]];
-            p = id[p];
+    public int largestIsland(int[][] grid) {
+        int n = grid.length;
+        id = new int[n * n];
+        sz = new int[n * n];
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                id[i * n + j] = i * n + j;
+                if (grid[i][j] == 1) {
+                    sz[i * n + j] = 1;
+                }
+            }
         }
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1) {
+                    dfs(grid, i, j);
+                }
+            }
+        }
+        boolean hasZero = false;
+        int res = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 0) {
+                    hasZero = true;
+                    int area = 1;
+                    HashSet<Integer> set = new HashSet<>();
+                    for (int d = 0; d < 4; d++) {
+                        int x = i + dir[d], y = j + dir[d + 1];
+                        if (x >= 0 && y >= 0 && x < n && y < n) {
+                            set.add(find(x * n + y));
+                        }
+                    }
+                    for (int cId : set) area += sz[cId];
+                    res = Math.max(res, area);
+                }
+            }
+        }
+        if (!hasZero) return n * n;
+        return res;
+    }
+
+    private void dfs(int[][] grid, int r, int c) {
+        int n = grid.length;
+        grid[r][c] = -1;
+        for (int d = 0; d < 4; d++) {
+            int i = dir[d] + r, j = dir[d + 1] + c;
+            int cId = n * r + c, nId = i * n + j;
+            if (i >= 0 && i < n && j >= 0 && j < n && grid[i][j] == 1) {
+                union(cId, nId);
+                dfs(grid, i, j);
+            }
+        }
+    }
+
+    private boolean isConnected(int p, int q) {
+        return find(p) == find(q);
+    }
+
+    private int find(int p) {
+        while (p != id[p]) p = id[p];
         return p;
     }
 
@@ -20,64 +77,4 @@ class Solution {
             id[qId] = pId;
         }
     }
-
-    public int largestIsland(int[][] grid) {
-        int n = grid.length, res = 0;
-        id = new int[n * n];
-        sz = new int[n * n];
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1) {
-                    sz[i * n + j] = 1;
-                }
-                id[i * n + j] = i * n + j;
-            }
-        }
-        
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1) {
-                    grid[i][j] = -1;
-                    int curId = i * n + j;
-                    for (int d = 0; d < 4; d++) {
-                        int x = dir[d] + i, y = dir[d + 1] + j;
-                        if (x >= 0 && x < n && y >= 0 && y < n && grid[x][y] == 1) {
-                            union(curId, x * n + y);
-                        } 
-                    }
-                }
-            }
-        }
-        boolean hasZero = false;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 0) {
-                    hasZero = true;
-                    int curArea = 1;
-                    HashSet<Integer> set = new HashSet<>();
-                    for (int d = 0; d < 4; d++) {
-                        int x = dir[d] + i, y = dir[d + 1] + j;
-                        int nextId = x * n + y;
-                        if (x >= 0 && x < n && y >= 0 && y < n) {
-                            set.add(find(nextId));
-                        }
-                    }
-                    for (int island : set) {
-                        curArea += sz[island];
-                    }
-                    res = Math.max(res, curArea);
-                }
-            }
-        }
-        if (!hasZero) return n * n;
-        return res;
-    }
 }
-
-
-/*
-union find模板。
-先DFS把所有岛连起来，计算每个岛的面积。这样每个岛都会有一个专属id。
-之后扫描每个0点，对其四周的岛找到他们的id。对于每个独特的id把面积加起来。
-最后最大的就是答案。
-*/
