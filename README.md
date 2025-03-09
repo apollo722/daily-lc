@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/apollo722/daily-lc/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/apollo722/daily-lc/tree/master/0227-basic-calculator-ii) |
 | [0785-basic-calculator-iii](https://github.com/apollo722/daily-lc/tree/master/0785-basic-calculator-iii) |
+| [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
 | [2649-count-total-number-of-colored-cells](https://github.com/apollo722/daily-lc/tree/master/2649-count-total-number-of-colored-cells) |
 ## Recursion
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/apollo722/daily-lc/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/apollo722/daily-lc/tree/master/0227-basic-calculator-ii) |
 | [0785-basic-calculator-iii](https://github.com/apollo722/daily-lc/tree/master/0785-basic-calculator-iii) |
+| [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/apollo722/daily-lc/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/apollo722/daily-lc/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/apollo722/daily-lc/tree/master/1250-longest-common-subsequence) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/apollo722/daily-lc/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
 | [0854-making-a-large-island](https://github.com/apollo722/daily-lc/tree/master/0854-making-a-large-island) |
+| [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apollo722/daily-lc/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -320,4 +323,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
+## Interactive
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
+## Game Theory
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
 <!---LeetCode Topics End-->
