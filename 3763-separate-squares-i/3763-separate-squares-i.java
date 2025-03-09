@@ -1,6 +1,6 @@
 class Solution {
     public double separateSquares(int[][] squares) {
-        double delta = 1e-6, res = 0;
+        double delta = .5 * 1e-5, res = 0;
         double l = 0, r = 2 * 1e9;
         while (l <= r) {
             double mid = l + (r - l) / 2.0;
