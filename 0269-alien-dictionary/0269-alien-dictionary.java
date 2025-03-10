@@ -38,3 +38,10 @@ class Solution {
         return res.length() == g.size() ? res.toString() : "";
     }
 }
+
+
+/*
+拓扑排序模板。
+只有一个需要注意的隐蔽情况，就是words中可能会有同样前缀但前词比后词更长的情况。
+这种直接返回空，因为是违法输入。
+*/
