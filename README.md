@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/apollo722/daily-lc/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2479-meeting-rooms-iii](https://github.com/apollo722/daily-lc/tree/master/2479-meeting-rooms-iii) |
 ## String
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/apollo722/daily-lc/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/apollo722/daily-lc/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/apollo722/daily-lc/tree/master/1250-longest-common-subsequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/apollo722/daily-lc/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/apollo722/daily-lc/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Sliding Window
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/apollo722/daily-lc/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/apollo722/daily-lc/tree/master/0239-sliding-window-maximum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/apollo722/daily-lc/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/apollo722/daily-lc/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Array
 |  |
