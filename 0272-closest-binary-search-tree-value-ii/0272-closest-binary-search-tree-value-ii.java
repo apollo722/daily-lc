@@ -3,34 +3,19 @@ class Solution {
         List<Integer> arr = new ArrayList<>();
         dfs(root, arr);
         
-        int start = 0;
-        double minDiff = Double.MAX_VALUE;
+        int left = 0;
+        int right = arr.size() - k;
         
-        for (int i = 0; i < arr.size(); i++) {
-            if (Math.abs(arr.get(i) - target) < minDiff) {
-                minDiff = Math.abs(arr.get(i) - target);
-                start = i;
-            }
-        }
-        
-        int left = start;
-        int right = start + 1;
-        
-        while (right - left - 1 < k) {
-            // Be careful to not go out of bounds
-            if (left < 0) {
-                right += 1;
-                continue;
-            }
-
-            if (right == arr.size() || Math.abs(arr.get(left) - target) <= Math.abs(arr.get(right) - target)) {
-                left -= 1;
+        while (left < right) {
+            int mid = (left + right) / 2;
+            if (Math.abs(target - arr.get(mid + k)) < Math.abs(target - arr.get(mid))) {
+                left = mid + 1;
             } else {
-                right += 1;
+                right = mid;
             }
         }
         
-        return arr.subList(left + 1, right);
+        return arr.subList(left, left + k);
     }
     
     public void dfs(TreeNode node, List<Integer> arr) {
