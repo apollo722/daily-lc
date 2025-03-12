@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/apollo722/daily-lc/tree/master/0244-shortest-word-distance-ii) |
 | [0269-alien-dictionary](https://github.com/apollo722/daily-lc/tree/master/0269-alien-dictionary) |
 | [0282-expression-add-operators](https://github.com/apollo722/daily-lc/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0785-basic-calculator-iii](https://github.com/apollo722/daily-lc/tree/master/0785-basic-calculator-iii) |
 | [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/apollo722/daily-lc/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/apollo722/daily-lc/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/apollo722/daily-lc/tree/master/0269-alien-dictionary) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/apollo722/daily-lc/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0339-nested-list-weight-sum](https://github.com/apollo722/daily-lc/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/apollo722/daily-lc/tree/master/0364-nested-list-weight-sum-ii) |
 | [0366-find-leaves-of-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0366-find-leaves-of-binary-tree) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/apollo722/daily-lc/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/apollo722/daily-lc/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/apollo722/daily-lc/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0339-nested-list-weight-sum](https://github.com/apollo722/daily-lc/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/apollo722/daily-lc/tree/master/0364-nested-list-weight-sum-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/apollo722/daily-lc/tree/master/0407-trapping-rain-water-ii) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/apollo722/daily-lc/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/apollo722/daily-lc/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0366-find-leaves-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/apollo722/daily-lc/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/apollo722/daily-lc/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/apollo722/daily-lc/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0366-find-leaves-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/apollo722/daily-lc/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -376,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0244-shortest-word-distance-ii](https://github.com/apollo722/daily-lc/tree/master/0244-shortest-word-distance-ii) |
 | [0295-find-median-from-data-stream](https://github.com/apollo722/daily-lc/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/apollo722/daily-lc/tree/master/0432-all-oone-data-structure) |
 | [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
 | [1953-finding-mk-average](https://github.com/apollo722/daily-lc/tree/master/1953-finding-mk-average) |
