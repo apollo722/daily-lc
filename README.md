@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/apollo722/daily-lc/tree/master/0282-expression-add-operators) |
 | [0785-basic-calculator-iii](https://github.com/apollo722/daily-lc/tree/master/0785-basic-calculator-iii) |
 | [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
+| [0903-implement-rand10-using-rand7](https://github.com/apollo722/daily-lc/tree/master/0903-implement-rand10-using-rand7) |
 | [2649-count-total-number-of-colored-cells](https://github.com/apollo722/daily-lc/tree/master/2649-count-total-number-of-colored-cells) |
 ## Recursion
 |  |
@@ -364,4 +365,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/apollo722/daily-lc/tree/master/0903-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/apollo722/daily-lc/tree/master/0903-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/apollo722/daily-lc/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
