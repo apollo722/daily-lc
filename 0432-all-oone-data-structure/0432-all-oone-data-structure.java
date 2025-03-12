@@ -35,6 +35,11 @@ class AllOne {
         next.prev = prev;
     }
 
+    public void removeKey(DNode cur, String key) {
+        cur.remove(key);
+        if (cur.set.size() == 0) removeNode(cur);
+    }
+
     public AllOne() {
         head = new DNode();
         tail = new DNode();
@@ -58,14 +63,12 @@ class AllOne {
             int curFreq = cur.freq;
             if (cur.next.freq == curFreq + 1) {
                 cur.next.add(key);
-                cur.remove(key);
-                if (cur.set.size() == 0) removeNode(cur);
+                removeKey(cur, key);
                 m.put(key, cur.next);
             } else {
                 DNode newNode = addNode(cur, curFreq + 1);
                 newNode.add(key);
-                cur.remove(key);
-                if (cur.set.size() == 0) removeNode(cur);
+                removeKey(cur, key);
                 m.put(key, newNode);
             }
         }
@@ -75,21 +78,18 @@ class AllOne {
         DNode cur = m.get(key);
         int curFreq = cur.freq;
         if (curFreq == 1) {
-            cur.remove(key);
-            if (cur.set.size() == 0) removeNode(cur);
+            removeKey(cur, key);
             m.remove(key);
             return ;
         }
         if (cur.prev.freq == curFreq - 1) {
             cur.prev.add(key);
-            cur.remove(key);
-            if (cur.set.size() == 0) removeNode(cur);
+            removeKey(cur, key);
             m.put(key, cur.prev);
         } else {
             DNode newNode = addNode(cur.prev, curFreq - 1);
             newNode.add(key);
-            cur.remove(key);
-            if (cur.set.size() == 0) removeNode(cur);
+            removeKey(cur, key);
             m.put(key, newNode);
         }
     }
