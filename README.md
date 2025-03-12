@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/apollo722/daily-lc/tree/master/1046-max-consecutive-ones-iii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/apollo722/daily-lc/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/apollo722/daily-lc/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apollo722/daily-lc/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2479-meeting-rooms-iii](https://github.com/apollo722/daily-lc/tree/master/2479-meeting-rooms-iii) |
 | [2617-time-taken-to-cross-the-door](https://github.com/apollo722/daily-lc/tree/master/2617-time-taken-to-cross-the-door) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/apollo722/daily-lc/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/apollo722/daily-lc/tree/master/1046-max-consecutive-ones-iii) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/apollo722/daily-lc/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [3763-separate-squares-i](https://github.com/apollo722/daily-lc/tree/master/3763-separate-squares-i) |
 ## Divide and Conquer
 |  |
