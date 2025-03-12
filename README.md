@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/apollo722/daily-lc/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/apollo722/daily-lc/tree/master/0227-basic-calculator-ii) |
 | [0282-expression-add-operators](https://github.com/apollo722/daily-lc/tree/master/0282-expression-add-operators) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apollo722/daily-lc/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0785-basic-calculator-iii](https://github.com/apollo722/daily-lc/tree/master/0785-basic-calculator-iii) |
 | [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
 | [0903-implement-rand10-using-rand7](https://github.com/apollo722/daily-lc/tree/master/0903-implement-rand10-using-rand7) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/apollo722/daily-lc/tree/master/0149-max-points-on-a-line) |
 | [0244-shortest-word-distance-ii](https://github.com/apollo722/daily-lc/tree/master/0244-shortest-word-distance-ii) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apollo722/daily-lc/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/apollo722/daily-lc/tree/master/0432-all-oone-data-structure) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/apollo722/daily-lc/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/apollo722/daily-lc/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/apollo722/daily-lc/tree/master/0354-russian-doll-envelopes) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apollo722/daily-lc/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0407-trapping-rain-water-ii](https://github.com/apollo722/daily-lc/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/apollo722/daily-lc/tree/master/0605-can-place-flowers) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/apollo722/daily-lc/tree/master/0244-shortest-word-distance-ii) |
 | [0295-find-median-from-data-stream](https://github.com/apollo722/daily-lc/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apollo722/daily-lc/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/apollo722/daily-lc/tree/master/0432-all-oone-data-structure) |
 | [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
 | [1953-finding-mk-average](https://github.com/apollo722/daily-lc/tree/master/1953-finding-mk-average) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apollo722/daily-lc/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0903-implement-rand10-using-rand7](https://github.com/apollo722/daily-lc/tree/master/0903-implement-rand10-using-rand7) |
 ## Probability and Statistics
 |  |
