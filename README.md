@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/apollo722/daily-lc/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/apollo722/daily-lc/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/apollo722/daily-lc/tree/master/0227-basic-calculator-ii) |
+| [0364-nested-list-weight-sum-ii](https://github.com/apollo722/daily-lc/tree/master/0364-nested-list-weight-sum-ii) |
 | [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
 | [0785-basic-calculator-iii](https://github.com/apollo722/daily-lc/tree/master/0785-basic-calculator-iii) |
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/apollo722/daily-lc/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/apollo722/daily-lc/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/apollo722/daily-lc/tree/master/0269-alien-dictionary) |
+| [0364-nested-list-weight-sum-ii](https://github.com/apollo722/daily-lc/tree/master/0364-nested-list-weight-sum-ii) |
 | [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/apollo722/daily-lc/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/apollo722/daily-lc/tree/master/0922-possible-bipartition) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/apollo722/daily-lc/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/apollo722/daily-lc/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/apollo722/daily-lc/tree/master/0269-alien-dictionary) |
+| [0364-nested-list-weight-sum-ii](https://github.com/apollo722/daily-lc/tree/master/0364-nested-list-weight-sum-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/apollo722/daily-lc/tree/master/0407-trapping-rain-water-ii) |
 | [0801-is-graph-bipartite](https://github.com/apollo722/daily-lc/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/apollo722/daily-lc/tree/master/0854-making-a-large-island) |
