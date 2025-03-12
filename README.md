@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/apollo722/daily-lc/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2479-meeting-rooms-iii](https://github.com/apollo722/daily-lc/tree/master/2479-meeting-rooms-iii) |
 | [2617-time-taken-to-cross-the-door](https://github.com/apollo722/daily-lc/tree/master/2617-time-taken-to-cross-the-door) |
+| [2642-time-to-cross-a-bridge](https://github.com/apollo722/daily-lc/tree/master/2642-time-to-cross-a-bridge) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/apollo722/daily-lc/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3763-separate-squares-i](https://github.com/apollo722/daily-lc/tree/master/3763-separate-squares-i) |
 ## Binary Search
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/apollo722/daily-lc/tree/master/0407-trapping-rain-water-ii) |
 | [1953-finding-mk-average](https://github.com/apollo722/daily-lc/tree/master/1953-finding-mk-average) |
 | [2479-meeting-rooms-iii](https://github.com/apollo722/daily-lc/tree/master/2479-meeting-rooms-iii) |
+| [2642-time-to-cross-a-bridge](https://github.com/apollo722/daily-lc/tree/master/2642-time-to-cross-a-bridge) |
 ## Merge Sort
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/apollo722/daily-lc/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2479-meeting-rooms-iii](https://github.com/apollo722/daily-lc/tree/master/2479-meeting-rooms-iii) |
 | [2617-time-taken-to-cross-the-door](https://github.com/apollo722/daily-lc/tree/master/2617-time-taken-to-cross-the-door) |
+| [2642-time-to-cross-a-bridge](https://github.com/apollo722/daily-lc/tree/master/2642-time-to-cross-a-bridge) |
 ## Tree
 |  |
 | ------- |
