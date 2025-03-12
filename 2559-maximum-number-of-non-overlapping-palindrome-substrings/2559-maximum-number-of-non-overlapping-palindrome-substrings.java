@@ -1,18 +1,27 @@
 class Solution {
     public int maxPalindromes(String s, int k) {
-    int n = s.length(), res = 0, start = 0;
-    for (int center = 0; center < 2 * n; center++) {
-        int left = center / 2;
-        int right = left + center % 2;
-        while (left >= start && right < n && s.charAt(left) == s.charAt(right)) {
-            if (right + 1 - left >= k) {
-                res++;
-                start = right + 1;
-                break;
+        int res = 0;
+        for (int i = 0; i < s.length(); i++) {
+            for (int j = i; j < s.length(); j++) {
+                int len = (j - i) + 1;
+                if (len > k + 1) break;
+                if (len >= k && isPalindrome(s, i, j)) {
+                    res++;
+                    i = j;
+                    break;
+                }
             }
-            left--; right++;
         }
+        
+        return res;
     }
-    return res;
-}
+
+    boolean isPalindrome(String s, int l, int r) {
+        while (l < r) {
+            if (s.charAt(l++) != s.charAt(r--)) {
+                return false;
+            }
+        }
+        return true;
+    }
 }
