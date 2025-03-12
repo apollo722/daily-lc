@@ -4,7 +4,8 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             for (int j = i; j < s.length(); j++) {
                 int len = (j - i) + 1;
-                if ((len == k || len == k + 1) && isPalindrome(s, i, j)) {
+                if (len > k + 1) break;
+                if (len >= k && isPalindrome(s, i, j)) {
                     res++;
                     i = j;
                     break;
