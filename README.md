@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/apollo722/daily-lc/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/apollo722/daily-lc/tree/master/0282-expression-add-operators) |
+| [0865-robot-room-cleaner](https://github.com/apollo722/daily-lc/tree/master/0865-robot-room-cleaner) |
 ## Stack
 |  |
 | ------- |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0865-robot-room-cleaner](https://github.com/apollo722/daily-lc/tree/master/0865-robot-room-cleaner) |
 | [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
 ## Game Theory
 |  |
