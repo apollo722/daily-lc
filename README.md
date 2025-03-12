@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/apollo722/daily-lc/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/apollo722/daily-lc/tree/master/0605-can-place-flowers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/apollo722/daily-lc/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0854-making-a-large-island](https://github.com/apollo722/daily-lc/tree/master/0854-making-a-large-island) |
 | [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/apollo722/daily-lc/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/apollo722/daily-lc/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/apollo722/daily-lc/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
 | [1170-shortest-common-supersequence](https://github.com/apollo722/daily-lc/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/apollo722/daily-lc/tree/master/1250-longest-common-subsequence) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/apollo722/daily-lc/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/apollo722/daily-lc/tree/master/0282-expression-add-operators) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/apollo722/daily-lc/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0865-robot-room-cleaner](https://github.com/apollo722/daily-lc/tree/master/0865-robot-room-cleaner) |
 ## Stack
 |  |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/apollo722/daily-lc/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Interactive
 |  |
 | ------- |
@@ -477,4 +481,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/apollo722/daily-lc/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/apollo722/daily-lc/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/apollo722/daily-lc/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
