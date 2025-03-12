@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/apollo722/daily-lc/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/apollo722/daily-lc/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/apollo722/daily-lc/tree/master/0041-first-missing-positive) |
+| [0126-word-ladder-ii](https://github.com/apollo722/daily-lc/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/apollo722/daily-lc/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/apollo722/daily-lc/tree/master/0149-max-points-on-a-line) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/apollo722/daily-lc/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/apollo722/daily-lc/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/apollo722/daily-lc/tree/master/0068-text-justification) |
+| [0126-word-ladder-ii](https://github.com/apollo722/daily-lc/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/apollo722/daily-lc/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 | [0224-basic-calculator](https://github.com/apollo722/daily-lc/tree/master/0224-basic-calculator) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/apollo722/daily-lc/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/apollo722/daily-lc/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/apollo722/daily-lc/tree/master/0051-n-queens) |
+| [0126-word-ladder-ii](https://github.com/apollo722/daily-lc/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/apollo722/daily-lc/tree/master/0282-expression-add-operators) |
 | [0865-robot-room-cleaner](https://github.com/apollo722/daily-lc/tree/master/0865-robot-room-cleaner) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/apollo722/daily-lc/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/apollo722/daily-lc/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/apollo722/daily-lc/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/apollo722/daily-lc/tree/master/0269-alien-dictionary) |
