@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/apollo722/daily-lc/tree/master/1046-max-consecutive-ones-iii) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/apollo722/daily-lc/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/apollo722/daily-lc/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/apollo722/daily-lc/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apollo722/daily-lc/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/apollo722/daily-lc/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/apollo722/daily-lc/tree/master/1046-max-consecutive-ones-iii) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/apollo722/daily-lc/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/apollo722/daily-lc/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [3763-separate-squares-i](https://github.com/apollo722/daily-lc/tree/master/3763-separate-squares-i) |
 ## Divide and Conquer
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
 | [1170-shortest-common-supersequence](https://github.com/apollo722/daily-lc/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/apollo722/daily-lc/tree/master/1250-longest-common-subsequence) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/apollo722/daily-lc/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/apollo722/daily-lc/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Greedy
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/apollo722/daily-lc/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/apollo722/daily-lc/tree/master/0354-russian-doll-envelopes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/apollo722/daily-lc/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2479-meeting-rooms-iii](https://github.com/apollo722/daily-lc/tree/master/2479-meeting-rooms-iii) |
 ## Backtracking
 |  |
