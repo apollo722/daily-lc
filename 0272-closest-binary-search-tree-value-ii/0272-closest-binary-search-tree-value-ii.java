@@ -1,30 +1,27 @@
 class Solution {
     public List<Integer> closestKValues(TreeNode root, double target, int k) {
-        List<Integer> arr = new ArrayList<>();
-        dfs(root, arr);
+        List<Integer> nums = new ArrayList<>();
+        inorder(root, nums);
         
-        int left = 0;
-        int right = arr.size() - k;
+        int l = 0;
+        int r = nums.size() - k;
         
-        while (left < right) {
-            int mid = (left + right) / 2;
-            if (Math.abs(target - arr.get(mid + k)) < Math.abs(target - arr.get(mid))) {
-                left = mid + 1;
+        while (l < r) {
+            int mid = (l + r) / 2;
+            if (Math.abs(target - nums.get(mid + k)) < Math.abs(target - nums.get(mid))) {
+                l = mid + 1;
             } else {
-                right = mid;
+                r = mid;
             }
         }
         
-        return arr.subList(left, left + k);
+        return nums.subList(l, l + k);
     }
     
-    public void dfs(TreeNode node, List<Integer> arr) {
-        if (node == null) {
-            return;
-        }
-        
-        dfs(node.left, arr);
-        arr.add(node.val);
-        dfs(node.right, arr);
+    public void inorder(TreeNode node, List<Integer> nums) {
+        if (node == null) return;
+        inorder(node.left, nums);
+        nums.add(node.val);
+        inorder(node.right, nums);
     }
 }
