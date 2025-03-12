@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/apollo722/daily-lc/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/apollo722/daily-lc/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/apollo722/daily-lc/tree/master/0025-reverse-nodes-in-k-group) |
+| [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
 ## Math
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/apollo722/daily-lc/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/apollo722/daily-lc/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/apollo722/daily-lc/tree/master/0227-basic-calculator-ii) |
+| [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
 | [0785-basic-calculator-iii](https://github.com/apollo722/daily-lc/tree/master/0785-basic-calculator-iii) |
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
 ## Heap (Priority Queue)
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/apollo722/daily-lc/tree/master/0295-find-median-from-data-stream) |
+| [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
 | [1953-finding-mk-average](https://github.com/apollo722/daily-lc/tree/master/1953-finding-mk-average) |
 ## Data Stream
 |  |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
 | [1953-finding-mk-average](https://github.com/apollo722/daily-lc/tree/master/1953-finding-mk-average) |
 ## Memoization
@@ -377,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/apollo722/daily-lc/tree/master/0903-implement-rand10-using-rand7) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
 <!---LeetCode Topics End-->
