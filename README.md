@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/apollo722/daily-lc/tree/master/0432-all-oone-data-structure) |
 | [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
 | [1953-finding-mk-average](https://github.com/apollo722/daily-lc/tree/master/1953-finding-mk-average) |
+| [2357-count-integers-in-intervals](https://github.com/apollo722/daily-lc/tree/master/2357-count-integers-in-intervals) |
 ## Data Stream
 |  |
 | ------- |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
 | [1953-finding-mk-average](https://github.com/apollo722/daily-lc/tree/master/1953-finding-mk-average) |
+| [2357-count-integers-in-intervals](https://github.com/apollo722/daily-lc/tree/master/2357-count-integers-in-intervals) |
 ## Memoization
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2357-count-integers-in-intervals](https://github.com/apollo722/daily-lc/tree/master/2357-count-integers-in-intervals) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/apollo722/daily-lc/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Enumeration
 |  |
