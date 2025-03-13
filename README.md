@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/apollo722/daily-lc/tree/master/0102-binary-tree-level-order-traversal) |
 | [0126-word-ladder-ii](https://github.com/apollo722/daily-lc/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/apollo722/daily-lc/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/apollo722/daily-lc/tree/master/0200-number-of-islands) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/apollo722/daily-lc/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/apollo722/daily-lc/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0156-binary-tree-upside-down](https://github.com/apollo722/daily-lc/tree/master/0156-binary-tree-upside-down) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/apollo722/daily-lc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/apollo722/daily-lc/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/apollo722/daily-lc/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0156-binary-tree-upside-down](https://github.com/apollo722/daily-lc/tree/master/0156-binary-tree-upside-down) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/apollo722/daily-lc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
