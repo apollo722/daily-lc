@@ -1,24 +1,22 @@
 class Solution {
+    List<List<Integer>> res = new ArrayList();
     public List<List<Integer>> getFactors(int n) {
-        List<List<Integer>> result = new ArrayList<List<Integer>>();
-        helper(result, new ArrayList<Integer>(), n, 2);
-        return result;
+        dfs(new ArrayList<>(), n, 2);
+        return res;
     }
 
-    public void helper(List<List<Integer>> result, List<Integer> item, int n, int start){
-        if (n <= 1) {
-            if (item.size() > 1) {
-                result.add(new ArrayList<Integer>(item));
-            }
-            return;
+    public void dfs(List<Integer> list, int r, int start) {
+        if (list.size() > 0) {
+            List<Integer> c = new ArrayList<>(list);
+            c.add(r);
+            res.add(c);
         }
-        
-        for (int i = start; i <= n; ++i) {
-            if (n % i == 0) {
-                item.add(i);
-                helper(result, item, n/i, i);
-                item.remove(item.size()-1);
+        for (int i = start; i * i <= r; i++) {
+            if (r % i == 0) {
+                list.add(i);
+                dfs(list, r / i, i);
+                list.remove(list.size() - 1);
             }
         }
-    }
+    } 
 }
