@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/apollo722/daily-lc/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/apollo722/daily-lc/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/apollo722/daily-lc/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/apollo722/daily-lc/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/apollo722/daily-lc/tree/master/0432-all-oone-data-structure) |
 | [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
 ## Math
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/apollo722/daily-lc/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/apollo722/daily-lc/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/apollo722/daily-lc/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/apollo722/daily-lc/tree/master/0149-max-points-on-a-line) |
 | [0244-shortest-word-distance-ii](https://github.com/apollo722/daily-lc/tree/master/0244-shortest-word-distance-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apollo722/daily-lc/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/apollo722/daily-lc/tree/master/0146-lru-cache) |
 | [0244-shortest-word-distance-ii](https://github.com/apollo722/daily-lc/tree/master/0244-shortest-word-distance-ii) |
 | [0295-find-median-from-data-stream](https://github.com/apollo722/daily-lc/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/apollo722/daily-lc/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/apollo722/daily-lc/tree/master/0432-all-oone-data-structure) |
 | [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
 ## Geometry
