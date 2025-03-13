@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/apollo722/daily-lc/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/apollo722/daily-lc/tree/master/0239-sliding-window-maximum) |
 | [0244-shortest-word-distance-ii](https://github.com/apollo722/daily-lc/tree/master/0244-shortest-word-distance-ii) |
+| [0253-meeting-rooms-ii](https://github.com/apollo722/daily-lc/tree/master/0253-meeting-rooms-ii) |
 | [0269-alien-dictionary](https://github.com/apollo722/daily-lc/tree/master/0269-alien-dictionary) |
 | [0300-longest-increasing-subsequence](https://github.com/apollo722/daily-lc/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/apollo722/daily-lc/tree/master/0312-burst-balloons) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/apollo722/daily-lc/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/apollo722/daily-lc/tree/master/0189-rotate-array) |
 | [0244-shortest-word-distance-ii](https://github.com/apollo722/daily-lc/tree/master/0244-shortest-word-distance-ii) |
+| [0253-meeting-rooms-ii](https://github.com/apollo722/daily-lc/tree/master/0253-meeting-rooms-ii) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/apollo722/daily-lc/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0295-find-median-from-data-stream](https://github.com/apollo722/daily-lc/tree/master/0295-find-median-from-data-stream) |
 | [0360-sort-transformed-array](https://github.com/apollo722/daily-lc/tree/master/0360-sort-transformed-array) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/apollo722/daily-lc/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/apollo722/daily-lc/tree/master/0135-candy) |
+| [0253-meeting-rooms-ii](https://github.com/apollo722/daily-lc/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/apollo722/daily-lc/tree/master/0605-can-place-flowers) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/apollo722/daily-lc/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/apollo722/daily-lc/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/apollo722/daily-lc/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/apollo722/daily-lc/tree/master/0018-4sum) |
+| [0253-meeting-rooms-ii](https://github.com/apollo722/daily-lc/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/apollo722/daily-lc/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/apollo722/daily-lc/tree/master/0354-russian-doll-envelopes) |
 | [0360-sort-transformed-array](https://github.com/apollo722/daily-lc/tree/master/0360-sort-transformed-array) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/apollo722/daily-lc/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/apollo722/daily-lc/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/apollo722/daily-lc/tree/master/0253-meeting-rooms-ii) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/apollo722/daily-lc/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0295-find-median-from-data-stream](https://github.com/apollo722/daily-lc/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/apollo722/daily-lc/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -466,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/apollo722/daily-lc/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/apollo722/daily-lc/tree/master/1046-max-consecutive-ones-iii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/apollo722/daily-lc/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
