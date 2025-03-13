@@ -7,9 +7,9 @@ class Solution {
 
     public void dfs(List<Integer> list, int r, int start) {
         if (list.size() > 0) {
-            List<Integer> c = new ArrayList<>(list);
-            c.add(r);
-            res.add(c);
+            List<Integer> tmp = new ArrayList<>(list);
+            tmp.add(r);
+            res.add(tmp);
         }
         for (int i = start; i * i <= r; i++) {
             if (r % i == 0) {
