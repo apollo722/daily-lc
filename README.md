@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/apollo722/daily-lc/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/apollo722/daily-lc/tree/master/0319-bulb-switcher) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apollo722/daily-lc/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0464-can-i-win](https://github.com/apollo722/daily-lc/tree/master/0464-can-i-win) |
 | [0785-basic-calculator-iii](https://github.com/apollo722/daily-lc/tree/master/0785-basic-calculator-iii) |
 | [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
 | [0903-implement-rand10-using-rand7](https://github.com/apollo722/daily-lc/tree/master/0903-implement-rand10-using-rand7) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/apollo722/daily-lc/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/apollo722/daily-lc/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
+| [0464-can-i-win](https://github.com/apollo722/daily-lc/tree/master/0464-can-i-win) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/apollo722/daily-lc/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
 | [1170-shortest-common-supersequence](https://github.com/apollo722/daily-lc/tree/master/1170-shortest-common-supersequence) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
+| [0464-can-i-win](https://github.com/apollo722/daily-lc/tree/master/0464-can-i-win) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/apollo722/daily-lc/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Interactive
 |  |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/apollo722/daily-lc/tree/master/0464-can-i-win) |
 | [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
 ## Rejection Sampling
 |  |
@@ -492,10 +496,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/apollo722/daily-lc/tree/master/0464-can-i-win) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/apollo722/daily-lc/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/apollo722/daily-lc/tree/master/0464-can-i-win) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/apollo722/daily-lc/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Concurrency
 |  |
