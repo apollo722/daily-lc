@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/apollo722/daily-lc/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/apollo722/daily-lc/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0156-binary-tree-upside-down](https://github.com/apollo722/daily-lc/tree/master/0156-binary-tree-upside-down) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/apollo722/daily-lc/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/apollo722/daily-lc/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/apollo722/daily-lc/tree/master/0126-word-ladder-ii) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/apollo722/daily-lc/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/apollo722/daily-lc/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/apollo722/daily-lc/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/apollo722/daily-lc/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/apollo722/daily-lc/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/apollo722/daily-lc/tree/master/0124-binary-tree-maximum-path-sum) |
