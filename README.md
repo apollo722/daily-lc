@@ -492,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/apollo722/daily-lc/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Concurrency
+|  |
+| ------- |
+| [1186-building-h2o](https://github.com/apollo722/daily-lc/tree/master/1186-building-h2o) |
 <!---LeetCode Topics End-->
