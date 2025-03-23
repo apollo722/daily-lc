@@ -1,107 +1,99 @@
 class AllOne {
-    int cnt = 0;
     class DNode {
-        HashSet<String> set = new HashSet<>();
-        int freq = 0;
         DNode prev, next;
-        DNode() {
-            freq = -1;
-        }
-        public void add(String key) {
-            this.set.add(key);
-        }
-        public void remove(String key) {
-            this.set.remove(key);
+        int cnt;
+        Set<String> keys = new HashSet<>();
+        public DNode(int cnt) {
+            this.cnt = cnt;
         }
     }
 
-    DNode head, tail;
-    HashMap<String, DNode> m = new HashMap<>();
-    public DNode addNode(DNode cur, int freq) {
+    public DNode addNext(DNode cur, int cnt) {
         DNode next = cur.next;
-        DNode newNode = new DNode();
-        newNode.freq = freq;
-        cur.next = newNode;
-        newNode.prev = cur;
-        next.prev = newNode;
-        newNode.next = next;
-        return newNode;
+        DNode res = new DNode(cnt);
+        cur.next = res;
+        res.prev = cur;
+        res.next = next;
+        next.prev = res;
+        return res;
     }
 
-    public void removeNode(DNode cur) {
-        DNode prev = cur.prev;
-        DNode next = cur.next;
+    public void remove(DNode cur) {
+        DNode prev = cur.prev, next = cur.next;
         prev.next = next;
         next.prev = prev;
     }
 
     public void removeKey(DNode cur, String key) {
-        cur.remove(key);
-        if (cur.set.size() == 0) removeNode(cur);
+        if (cur.keys.contains(key)) {
+            cur.keys.remove(key);
+        }
+        if (cur.keys.size() == 0) {
+            remove(cur);
+        }
     }
 
+    DNode head, tail;
+    Map<String, DNode> m = new HashMap<>();
+
     public AllOne() {
-        head = new DNode();
-        tail = new DNode();
+        head = new DNode(-1);
+        tail = new DNode(-1);
         head.next = tail;
         tail.prev = head;
     }
     
     public void inc(String key) {
-        DNode cur = m.getOrDefault(key, null);
-        if (cur == null) {
-            if (head.next.freq == 1) {
-                head.next.add(key);
-                m.put(key, head.next);
-            } else {
-                DNode newNode = addNode(head, 1);
-                newNode.add(key);
-                m.put(key, newNode);
-            }
-            
-        } else {
-            int curFreq = cur.freq;
-            if (cur.next.freq == curFreq + 1) {
-                cur.next.add(key);
-                removeKey(cur, key);
+        if (m.containsKey(key)) {
+            DNode cur = m.get(key);
+            int curCnt = cur.cnt;
+            if (cur.next.cnt == curCnt + 1) {
+                cur.next.keys.add(key);
                 m.put(key, cur.next);
             } else {
-                DNode newNode = addNode(cur, curFreq + 1);
-                newNode.add(key);
-                removeKey(cur, key);
-                m.put(key, newNode);
+                DNode res = addNext(cur, curCnt + 1);
+                res.keys.add(key);
+                m.put(key, res);
+            }
+            removeKey(cur, key);
+        } else {
+            if (head.next.cnt == 1) {
+                m.put(key, head.next);
+                head.next.keys.add(key);
+            } else {
+                DNode res = addNext(head, 1);
+                res.keys.add(key);
+                m.put(key,res);
             }
         }
     }
     
     public void dec(String key) {
         DNode cur = m.get(key);
-        int curFreq = cur.freq;
-        if (curFreq == 1) {
-            removeKey(cur, key);
-            m.remove(key);
-            return ;
+        int curCnt = cur.cnt;
+        if (curCnt == 1) {
+            ;
         }
-        if (cur.prev.freq == curFreq - 1) {
-            cur.prev.add(key);
-            removeKey(cur, key);
+        else if (cur.prev.cnt == curCnt - 1) {
+            cur.prev.keys.add(key);
             m.put(key, cur.prev);
         } else {
-            DNode newNode = addNode(cur.prev, curFreq - 1);
-            newNode.add(key);
-            removeKey(cur, key);
-            m.put(key, newNode);
+            DNode res = addNext(cur.prev, curCnt - 1);
+            res.keys.add(key);
+            m.put(key, res);
         }
+        removeKey(cur, key);
+        if (curCnt == 1) m.remove(key);
     }
     
     public String getMaxKey() {
-        if (tail.prev == head) return "";
-        return tail.prev.set.iterator().next();
+        if (tail.prev.cnt == -1) return "";
+        return tail.prev.keys.iterator().next();
     }
     
     public String getMinKey() {
-        if (head.next == tail) return "";
-        return head.next.set.iterator().next();
+        if (head.next.cnt == -1) return "";
+        return head.next.keys.iterator().next();
     }
 }
 
