@@ -1,39 +1,40 @@
 class Solution {
-    static long INF = (long) 1e10;
+    long INF = (long) 1e10;
     public long kthSmallestProduct(int[] nums1, int[] nums2, long k) {
-        int m = nums1.length, n = nums2.length;
-        long lo = -INF - 1, hi = INF + 1;
-        while (lo < hi) {            
-            long mid = lo + ((hi - lo) / 2), cnt = 0;
+        int len1 = nums1.length, len2 = nums2.length;
+        long lo = -INF - 1, hi = INF + 1, result = -1;
+        while (lo <= hi) {
+            long curTar = lo + (hi - lo) / 2, curTotalCnt = 0;
             for (int num1 : nums1) {
                 if (num1 >= 0) {
-                    int l = 0, r = n - 1, p = 0;
-                    while (l <= r) {
-                        int mid2 = l + ((r - l) / 2);
-                        long mul = num1 * (long) nums2[mid2];
-                        if (mul <= mid) {
-                            p = mid2 + 1;
-                            l = mid2 + 1;
-                        } else r = mid2 - 1;
+                    int left = 0, right = len2 - 1, cnt = 0;
+                    while (left <= right) {
+                        int mid = left + (right - left) / 2;
+                        long mul = num1 * (long) nums2[mid];
+                        if (mul <= curTar) {
+                            cnt = mid + 1;
+                            left = mid + 1;
+                        } else right = mid - 1;
                     }
-                    cnt += p;
+                    curTotalCnt += cnt;
                 } else {
-                    int l = 0, r = n - 1, p = 0;
-                    while (l <= r) {
-                        int mid2 = l + ((r - l) / 2);
-                        long mul = num1 * (long) nums2[mid2];
-                        if (mul <= mid) {
-                            p = n - mid2;
-                            r = mid2 - 1;
-                        } else l = mid2 + 1;
+                    int left = 0, right = len2 - 1, cnt = 0;
+                    while (left <= right) {
+                        int mid = left + (right - left) / 2;
+                        long mul = num1 * (long) nums2[mid];
+                        if (mul <= curTar) {
+                            cnt = len2 - mid;
+                            right = mid - 1;
+                        } else left = mid + 1;
                     }
-                    cnt += p;
+                    curTotalCnt += cnt;
                 }
             }
-            if (cnt >= k) {
-                hi = mid;
-            } else lo = mid + 1L;
+            if (curTotalCnt >= k) {
+                hi = curTar - 1;
+                result = curTar;
+            } else lo = curTar + 1;
         }
-        return lo;
+        return result;
     }
 }
