@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/apollo722/daily-lc/tree/master/0244-shortest-word-distance-ii) |
 | [0253-meeting-rooms-ii](https://github.com/apollo722/daily-lc/tree/master/0253-meeting-rooms-ii) |
 | [0269-alien-dictionary](https://github.com/apollo722/daily-lc/tree/master/0269-alien-dictionary) |
+| [0286-walls-and-gates](https://github.com/apollo722/daily-lc/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/apollo722/daily-lc/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/apollo722/daily-lc/tree/master/0312-burst-balloons) |
 | [0336-palindrome-pairs](https://github.com/apollo722/daily-lc/tree/master/0336-palindrome-pairs) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/apollo722/daily-lc/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/apollo722/daily-lc/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/apollo722/daily-lc/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/apollo722/daily-lc/tree/master/0286-walls-and-gates) |
 | [0407-trapping-rain-water-ii](https://github.com/apollo722/daily-lc/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/apollo722/daily-lc/tree/master/0854-making-a-large-island) |
 ## Depth-First Search
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/apollo722/daily-lc/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/apollo722/daily-lc/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/apollo722/daily-lc/tree/master/0269-alien-dictionary) |
+| [0286-walls-and-gates](https://github.com/apollo722/daily-lc/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0339-nested-list-weight-sum](https://github.com/apollo722/daily-lc/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/apollo722/daily-lc/tree/master/0364-nested-list-weight-sum-ii) |
