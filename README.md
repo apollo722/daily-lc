@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/apollo722/daily-lc/tree/master/0432-all-oone-data-structure) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
+| [1125-design-file-system](https://github.com/apollo722/daily-lc/tree/master/1125-design-file-system) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/apollo722/daily-lc/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1905-design-authentication-manager](https://github.com/apollo722/daily-lc/tree/master/1905-design-authentication-manager) |
 | [2479-meeting-rooms-iii](https://github.com/apollo722/daily-lc/tree/master/2479-meeting-rooms-iii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-basic-calculator-iii](https://github.com/apollo722/daily-lc/tree/master/0785-basic-calculator-iii) |
 | [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/apollo722/daily-lc/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1125-design-file-system](https://github.com/apollo722/daily-lc/tree/master/1125-design-file-system) |
 | [1170-shortest-common-supersequence](https://github.com/apollo722/daily-lc/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/apollo722/daily-lc/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/apollo722/daily-lc/tree/master/1397-search-suggestions-system) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/apollo722/daily-lc/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 | [0336-palindrome-pairs](https://github.com/apollo722/daily-lc/tree/master/0336-palindrome-pairs) |
+| [1125-design-file-system](https://github.com/apollo722/daily-lc/tree/master/1125-design-file-system) |
 | [1397-search-suggestions-system](https://github.com/apollo722/daily-lc/tree/master/1397-search-suggestions-system) |
 ## Sorting
 |  |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apollo722/daily-lc/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/apollo722/daily-lc/tree/master/0432-all-oone-data-structure) |
 | [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
+| [1125-design-file-system](https://github.com/apollo722/daily-lc/tree/master/1125-design-file-system) |
 | [1905-design-authentication-manager](https://github.com/apollo722/daily-lc/tree/master/1905-design-authentication-manager) |
 | [1953-finding-mk-average](https://github.com/apollo722/daily-lc/tree/master/1953-finding-mk-average) |
 | [2357-count-integers-in-intervals](https://github.com/apollo722/daily-lc/tree/master/2357-count-integers-in-intervals) |
