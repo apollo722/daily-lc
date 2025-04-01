@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/apollo722/daily-lc/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/apollo722/daily-lc/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1905-design-authentication-manager](https://github.com/apollo722/daily-lc/tree/master/1905-design-authentication-manager) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/apollo722/daily-lc/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2479-meeting-rooms-iii](https://github.com/apollo722/daily-lc/tree/master/2479-meeting-rooms-iii) |
 ## String
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/apollo722/daily-lc/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/apollo722/daily-lc/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/apollo722/daily-lc/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/apollo722/daily-lc/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/apollo722/daily-lc/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/apollo722/daily-lc/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/apollo722/daily-lc/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Monotonic Queue
 |  |
 | ------- |
