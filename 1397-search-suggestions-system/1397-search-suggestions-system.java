@@ -15,12 +15,8 @@ class Solution {
         if (l > r) return new ArrayList<>();
         List<String> res = new ArrayList<>();
         int n = products.length;
-        while (true) {
-            while (l < n && (idx >= products[l].length() || products[l].charAt(idx) != c)) l++;
-            while (r >= 0 && (idx >= products[r].length() || products[r].charAt(idx) != c)) r--;
-            if (r > l) break;
-            break;
-        }
+        while (l < n && (idx >= products[l].length() || products[l].charAt(idx) != c)) l++;
+        while (r >= 0 && (idx >= products[r].length() || products[r].charAt(idx) != c)) r--;
         for (int i = l; i <= r; i++) {
             res.add(products[i]);
             if (res.size() == 3) break;
