@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/apollo722/daily-lc/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/apollo722/daily-lc/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/apollo722/daily-lc/tree/master/1250-longest-common-subsequence) |
+| [1397-search-suggestions-system](https://github.com/apollo722/daily-lc/tree/master/1397-search-suggestions-system) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/apollo722/daily-lc/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/apollo722/daily-lc/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/apollo722/daily-lc/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/apollo722/daily-lc/tree/master/1046-max-consecutive-ones-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/apollo722/daily-lc/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1397-search-suggestions-system](https://github.com/apollo722/daily-lc/tree/master/1397-search-suggestions-system) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/apollo722/daily-lc/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/apollo722/daily-lc/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apollo722/daily-lc/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/apollo722/daily-lc/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/apollo722/daily-lc/tree/master/1046-max-consecutive-ones-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/apollo722/daily-lc/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1397-search-suggestions-system](https://github.com/apollo722/daily-lc/tree/master/1397-search-suggestions-system) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/apollo722/daily-lc/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [3763-separate-squares-i](https://github.com/apollo722/daily-lc/tree/master/3763-separate-squares-i) |
 ## Divide and Conquer
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/apollo722/daily-lc/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/apollo722/daily-lc/tree/master/0140-word-break-ii) |
 | [0336-palindrome-pairs](https://github.com/apollo722/daily-lc/tree/master/0336-palindrome-pairs) |
+| [1397-search-suggestions-system](https://github.com/apollo722/daily-lc/tree/master/1397-search-suggestions-system) |
 ## Sorting
 |  |
 | ------- |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/apollo722/daily-lc/tree/master/0658-find-k-closest-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/apollo722/daily-lc/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1397-search-suggestions-system](https://github.com/apollo722/daily-lc/tree/master/1397-search-suggestions-system) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/apollo722/daily-lc/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2479-meeting-rooms-iii](https://github.com/apollo722/daily-lc/tree/master/2479-meeting-rooms-iii) |
 ## Backtracking
@@ -320,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/apollo722/daily-lc/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/apollo722/daily-lc/tree/master/0407-trapping-rain-water-ii) |
 | [0658-find-k-closest-elements](https://github.com/apollo722/daily-lc/tree/master/0658-find-k-closest-elements) |
+| [1397-search-suggestions-system](https://github.com/apollo722/daily-lc/tree/master/1397-search-suggestions-system) |
 | [1953-finding-mk-average](https://github.com/apollo722/daily-lc/tree/master/1953-finding-mk-average) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/apollo722/daily-lc/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2479-meeting-rooms-iii](https://github.com/apollo722/daily-lc/tree/master/2479-meeting-rooms-iii) |
