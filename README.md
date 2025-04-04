@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
 | [1125-design-file-system](https://github.com/apollo722/daily-lc/tree/master/1125-design-file-system) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/apollo722/daily-lc/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/apollo722/daily-lc/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/apollo722/daily-lc/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1905-design-authentication-manager](https://github.com/apollo722/daily-lc/tree/master/1905-design-authentication-manager) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/apollo722/daily-lc/tree/master/0960-minimize-malware-spread) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/apollo722/daily-lc/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/apollo722/daily-lc/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/apollo722/daily-lc/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/apollo722/daily-lc/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/apollo722/daily-lc/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/apollo722/daily-lc/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/apollo722/daily-lc/tree/master/0960-minimize-malware-spread) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/apollo722/daily-lc/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/apollo722/daily-lc/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Union Find
 |  |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0366-find-leaves-of-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0366-find-leaves-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/apollo722/daily-lc/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/apollo722/daily-lc/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/apollo722/daily-lc/tree/master/2175-count-nodes-with-the-highest-score) |
 ## Binary Tree
 |  |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0366-find-leaves-of-binary-tree](https://github.com/apollo722/daily-lc/tree/master/0366-find-leaves-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/apollo722/daily-lc/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/apollo722/daily-lc/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/apollo722/daily-lc/tree/master/2175-count-nodes-with-the-highest-score) |
 ## Queue
 |  |
