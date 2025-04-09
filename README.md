@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-design-authentication-manager](https://github.com/apollo722/daily-lc/tree/master/1905-design-authentication-manager) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/apollo722/daily-lc/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2479-meeting-rooms-iii](https://github.com/apollo722/daily-lc/tree/master/2479-meeting-rooms-iii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/apollo722/daily-lc/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/apollo722/daily-lc/tree/master/2479-meeting-rooms-iii) |
 | [2617-time-taken-to-cross-the-door](https://github.com/apollo722/daily-lc/tree/master/2617-time-taken-to-cross-the-door) |
 | [2642-time-to-cross-a-bridge](https://github.com/apollo722/daily-lc/tree/master/2642-time-to-cross-a-bridge) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/apollo722/daily-lc/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/apollo722/daily-lc/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3763-separate-squares-i](https://github.com/apollo722/daily-lc/tree/master/3763-separate-squares-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/apollo722/daily-lc/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
