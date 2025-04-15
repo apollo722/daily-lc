@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/apollo722/daily-lc/tree/master/0336-palindrome-pairs) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apollo722/daily-lc/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/apollo722/daily-lc/tree/master/0432-all-oone-data-structure) |
+| [0621-task-scheduler](https://github.com/apollo722/daily-lc/tree/master/0621-task-scheduler) |
 | [0960-minimize-malware-spread](https://github.com/apollo722/daily-lc/tree/master/0960-minimize-malware-spread) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/apollo722/daily-lc/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/apollo722/daily-lc/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/apollo722/daily-lc/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/apollo722/daily-lc/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/apollo722/daily-lc/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0854-making-a-large-island](https://github.com/apollo722/daily-lc/tree/master/0854-making-a-large-island) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/apollo722/daily-lc/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/apollo722/daily-lc/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/apollo722/daily-lc/tree/master/0621-task-scheduler) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/apollo722/daily-lc/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/apollo722/daily-lc/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Trie
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/apollo722/daily-lc/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/apollo722/daily-lc/tree/master/0354-russian-doll-envelopes) |
 | [0360-sort-transformed-array](https://github.com/apollo722/daily-lc/tree/master/0360-sort-transformed-array) |
+| [0621-task-scheduler](https://github.com/apollo722/daily-lc/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/apollo722/daily-lc/tree/master/0658-find-k-closest-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/apollo722/daily-lc/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/apollo722/daily-lc/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/apollo722/daily-lc/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/apollo722/daily-lc/tree/master/0407-trapping-rain-water-ii) |
+| [0621-task-scheduler](https://github.com/apollo722/daily-lc/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/apollo722/daily-lc/tree/master/0658-find-k-closest-elements) |
 | [1397-search-suggestions-system](https://github.com/apollo722/daily-lc/tree/master/1397-search-suggestions-system) |
 | [1953-finding-mk-average](https://github.com/apollo722/daily-lc/tree/master/1953-finding-mk-average) |
@@ -500,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/apollo722/daily-lc/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/apollo722/daily-lc/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/apollo722/daily-lc/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
