@@ -4,8 +4,9 @@ class Solution {
     public List<Integer> countSmaller(int[] nums) {
         int n = nums.length;
         resArr = new int[n];
-        int[] sortedNum = nums.clone();
-        solve(nums, sortedNum, 0, n - 1);
+        int[] indices = new int[n];
+        for (int i = 0; i < n; i++) indices[i] = i;
+        solve(nums, indices, 0, n - 1);
         List<Integer> res = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             res.add(resArr[i]);
@@ -13,39 +14,34 @@ class Solution {
         return res;
     }
 
-    private void solve(int[] nums, int[] sortedNum, int l, int r) {
+    private void solve(int[] nums, int[] indices, int l, int r) {
         if (l >= r) return;
         int mid = l + (r - l) / 2;
-        solve(nums, sortedNum, l, mid);
-        solve(nums, sortedNum, mid + 1, r);
-        for (int i = l; i <= mid; i++) {
-            int count = findCount(sortedNum, mid + 1, r, nums[i]);
-            resArr[i] += count;
-        }
-        int[] tmp = new int[r - l + 1];
+        solve(nums, indices, l, mid);
+        solve(nums, indices, mid + 1, r);
         int i = l, j = mid + 1, p = 0;
+        int[] tmp = new int[r - l + 1];
         while (i <= mid && j <= r) {
-            if (sortedNum[i] < sortedNum[j]) tmp[p++] = sortedNum[i++];
-            else tmp[p++] = sortedNum[j++];
-        }
-        while (i <= mid) tmp[p++] = sortedNum[i++];
-        while (j <= r) tmp[p++] = sortedNum[j++];
-        for (int k = l; k <= r; k++) {
-            sortedNum[k] = tmp[k - l];
-        }
-    }
-
-    private int findCount(int[] nums, int start, int end, int tar) {
-        int idx = -1, l = start, r = end;
-        while (l <= r) {
-            int mid = l + (r - l) / 2;
-            if (nums[mid] >= tar) {
-                r = mid - 1;
+            if (nums[indices[i]] <= nums[indices[j]]) {
+                resArr[indices[i]] += j - (mid + 1);
+                tmp[p++] = indices[i];
+                i++;
             } else {
-                idx = mid;
-                l = mid + 1;
+                tmp[p++] = indices[j];
+                j++;
             }
         }
-        return Math.max(0, idx - start + 1);
+        while (i <= mid) {
+            resArr[indices[i]] += j - (mid + 1);
+            tmp[p++] = indices[i];
+            i++;
+        }
+        while (j <= r) {
+            tmp[p++] = indices[j];
+            j++;
+        }
+        for (int k = l; k <= r; k++) {
+            indices[k] = tmp[k - l];
+        }
     }
 }
