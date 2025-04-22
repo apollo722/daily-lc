@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
 | [1125-design-file-system](https://github.com/apollo722/daily-lc/tree/master/1125-design-file-system) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/apollo722/daily-lc/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1249-snapshot-array](https://github.com/apollo722/daily-lc/tree/master/1249-snapshot-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/apollo722/daily-lc/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/apollo722/daily-lc/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1905-design-authentication-manager](https://github.com/apollo722/daily-lc/tree/master/1905-design-authentication-manager) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/apollo722/daily-lc/tree/master/1046-max-consecutive-ones-iii) |
+| [1249-snapshot-array](https://github.com/apollo722/daily-lc/tree/master/1249-snapshot-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/apollo722/daily-lc/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1397-search-suggestions-system](https://github.com/apollo722/daily-lc/tree/master/1397-search-suggestions-system) |
 | [1656-count-good-triplets](https://github.com/apollo722/daily-lc/tree/master/1656-count-good-triplets) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/apollo722/daily-lc/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/apollo722/daily-lc/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/apollo722/daily-lc/tree/master/1046-max-consecutive-ones-iii) |
+| [1249-snapshot-array](https://github.com/apollo722/daily-lc/tree/master/1249-snapshot-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/apollo722/daily-lc/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1397-search-suggestions-system](https://github.com/apollo722/daily-lc/tree/master/1397-search-suggestions-system) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/apollo722/daily-lc/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/apollo722/daily-lc/tree/master/0432-all-oone-data-structure) |
 | [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
 | [1125-design-file-system](https://github.com/apollo722/daily-lc/tree/master/1125-design-file-system) |
+| [1249-snapshot-array](https://github.com/apollo722/daily-lc/tree/master/1249-snapshot-array) |
 | [1905-design-authentication-manager](https://github.com/apollo722/daily-lc/tree/master/1905-design-authentication-manager) |
 | [1953-finding-mk-average](https://github.com/apollo722/daily-lc/tree/master/1953-finding-mk-average) |
 | [2357-count-integers-in-intervals](https://github.com/apollo722/daily-lc/tree/master/2357-count-integers-in-intervals) |
