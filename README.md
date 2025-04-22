@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/apollo722/daily-lc/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/apollo722/daily-lc/tree/master/0416-partition-equal-subset-sum) |
+| [0503-next-greater-element-ii](https://github.com/apollo722/daily-lc/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/apollo722/daily-lc/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/apollo722/daily-lc/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/apollo722/daily-lc/tree/master/0658-find-k-closest-elements) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/apollo722/daily-lc/tree/master/0227-basic-calculator-ii) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/apollo722/daily-lc/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0364-nested-list-weight-sum-ii](https://github.com/apollo722/daily-lc/tree/master/0364-nested-list-weight-sum-ii) |
+| [0503-next-greater-element-ii](https://github.com/apollo722/daily-lc/tree/master/0503-next-greater-element-ii) |
 | [0716-max-stack](https://github.com/apollo722/daily-lc/tree/master/0716-max-stack) |
 | [0785-basic-calculator-iii](https://github.com/apollo722/daily-lc/tree/master/0785-basic-calculator-iii) |
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/apollo722/daily-lc/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/apollo722/daily-lc/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/apollo722/daily-lc/tree/master/0503-next-greater-element-ii) |
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
 ## Simulation
 |  |
