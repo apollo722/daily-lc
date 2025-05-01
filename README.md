@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/apollo722/daily-lc/tree/master/0336-palindrome-pairs) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apollo722/daily-lc/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/apollo722/daily-lc/tree/master/0432-all-oone-data-structure) |
+| [0560-subarray-sum-equals-k](https://github.com/apollo722/daily-lc/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/apollo722/daily-lc/tree/master/0621-task-scheduler) |
 | [0960-minimize-malware-spread](https://github.com/apollo722/daily-lc/tree/master/0960-minimize-malware-spread) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/apollo722/daily-lc/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/apollo722/daily-lc/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/apollo722/daily-lc/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/apollo722/daily-lc/tree/master/0565-array-nesting) |
 | [0605-can-place-flowers](https://github.com/apollo722/daily-lc/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/apollo722/daily-lc/tree/master/0621-task-scheduler) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/apollo722/daily-lc/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/apollo722/daily-lc/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/apollo722/daily-lc/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/apollo722/daily-lc/tree/master/1046-max-consecutive-ones-iii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/apollo722/daily-lc/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Ordered Set
