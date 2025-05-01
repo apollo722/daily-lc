@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/apollo722/daily-lc/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/apollo722/daily-lc/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/apollo722/daily-lc/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0761-employee-free-time](https://github.com/apollo722/daily-lc/tree/master/0761-employee-free-time) |
 | [0854-making-a-large-island](https://github.com/apollo722/daily-lc/tree/master/0854-making-a-large-island) |
 | [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
 | [0907-koko-eating-bananas](https://github.com/apollo722/daily-lc/tree/master/0907-koko-eating-bananas) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0360-sort-transformed-array](https://github.com/apollo722/daily-lc/tree/master/0360-sort-transformed-array) |
 | [0621-task-scheduler](https://github.com/apollo722/daily-lc/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/apollo722/daily-lc/tree/master/0658-find-k-closest-elements) |
+| [0761-employee-free-time](https://github.com/apollo722/daily-lc/tree/master/0761-employee-free-time) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/apollo722/daily-lc/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1397-search-suggestions-system](https://github.com/apollo722/daily-lc/tree/master/1397-search-suggestions-system) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/apollo722/daily-lc/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/apollo722/daily-lc/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/apollo722/daily-lc/tree/master/0658-find-k-closest-elements) |
+| [0761-employee-free-time](https://github.com/apollo722/daily-lc/tree/master/0761-employee-free-time) |
 | [1397-search-suggestions-system](https://github.com/apollo722/daily-lc/tree/master/1397-search-suggestions-system) |
 | [1953-finding-mk-average](https://github.com/apollo722/daily-lc/tree/master/1953-finding-mk-average) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/apollo722/daily-lc/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -675,4 +678,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/apollo722/daily-lc/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2280-count-good-triplets-in-an-array](https://github.com/apollo722/daily-lc/tree/master/2280-count-good-triplets-in-an-array) |
+## Line Sweep
+|  |
+| ------- |
+| [0761-employee-free-time](https://github.com/apollo722/daily-lc/tree/master/0761-employee-free-time) |
 <!---LeetCode Topics End-->
