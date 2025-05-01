@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/apollo722/daily-lc/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/apollo722/daily-lc/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/apollo722/daily-lc/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/apollo722/daily-lc/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/apollo722/daily-lc/tree/master/0239-sliding-window-maximum) |
 | [0244-shortest-word-distance-ii](https://github.com/apollo722/daily-lc/tree/master/0244-shortest-word-distance-ii) |
 | [0253-meeting-rooms-ii](https://github.com/apollo722/daily-lc/tree/master/0253-meeting-rooms-ii) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/apollo722/daily-lc/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/apollo722/daily-lc/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/apollo722/daily-lc/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/apollo722/daily-lc/tree/master/1046-max-consecutive-ones-iii) |
