@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/apollo722/daily-lc/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/apollo722/daily-lc/tree/master/0621-task-scheduler) |
 | [0960-minimize-malware-spread](https://github.com/apollo722/daily-lc/tree/master/0960-minimize-malware-spread) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/apollo722/daily-lc/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/apollo722/daily-lc/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
 | [1125-design-file-system](https://github.com/apollo722/daily-lc/tree/master/1125-design-file-system) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-guess-the-word](https://github.com/apollo722/daily-lc/tree/master/0873-guess-the-word) |
 | [0907-koko-eating-bananas](https://github.com/apollo722/daily-lc/tree/master/0907-koko-eating-bananas) |
 | [0960-minimize-malware-spread](https://github.com/apollo722/daily-lc/tree/master/0960-minimize-malware-spread) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/apollo722/daily-lc/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1017-odd-even-jump](https://github.com/apollo722/daily-lc/tree/master/1017-odd-even-jump) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apollo722/daily-lc/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/apollo722/daily-lc/tree/master/1046-max-consecutive-ones-iii) |
